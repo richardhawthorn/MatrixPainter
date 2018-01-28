@@ -1,6 +1,6 @@
 ### Description
 
-ESP8266 / Arduino code for matrixpainter.net
+ESP8266 / Arduino code for <a href="http://www.matrixpainter.com">matrixpainter.com</a>
 
 ### Features
 
@@ -24,7 +24,7 @@ Power up and pull down pin 0 to ground (the flash button on the MatrixPainter bo
 
 Join the "MatrixPainter" wifi network, and enter your wifi details.
 
-Done!
+Setup an account at <a href="http://www.matrixpainter.com">matrixpainter.com</a> to start painting your pixels!
 
 ### License
 
