@@ -8,6 +8,24 @@ ESP8266 / Arduino code for matrixpainter.net
 - Sent to grid of Neopixels
 - Setup wifi details using softAp
 
+### Instructions
+
+Install:
+- https://github.com/esp8266/Arduino
+- https://github.com/tzapu/WiFiManager
+- https://github.com/adafruit/Adafruit_NeoPixel
+- https://github.com/adafruit/Adafruit_MQTT_Library
+
+Rename connection_details_example.h to connection_details.h and fill in the blanks
+
+Flash the ESP8266
+
+Power up and pull down pin 0 to ground (the flash button on the MatrixPainter board)
+
+Join the "MatrixPainter" wifi network, and enter your wifi details.
+
+Done!
+
 ### License
 
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
